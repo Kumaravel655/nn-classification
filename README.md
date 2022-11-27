@@ -1,6 +1,6 @@
 ### EXP NO: 02
 
-### Date
+### Date:11.11.2022
 
 # <p align = "center"> Developing a Neural Network Classification Model </p>
 
